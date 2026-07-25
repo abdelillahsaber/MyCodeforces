@@ -1,0 +1,14 @@
+#include<iostream>
+ 
+using namespace std;
+ 
+int main() {
+    string s;
+    cin >> s;
+    if (!('A' <= s[0] && s[0] <= 'Z'))
+    {
+        s[0] -= 32;
+    }
+    cout << s;
+    return 0;
+}
