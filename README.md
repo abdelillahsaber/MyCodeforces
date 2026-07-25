@@ -6,28 +6,115 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 31 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [sortings](#sortings) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (5)
+- [dp](#dp) (1)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (23)
+- [math](#math) (7)
+- [sortings](#sortings) (2)
+- [strings](#strings) (10)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 
 ---
 
