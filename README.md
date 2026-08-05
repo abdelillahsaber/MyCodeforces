@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 120 | 20 |
+| 121 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (19)
+- [brute force](#brute-force) (20)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
@@ -24,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (25)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (76)
+- [implementation](#implementation) (77)
 - [math](#math) (37)
 - [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
@@ -80,6 +80,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
@@ -243,6 +244,7 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abdelillahsaber/MyCodeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
